@@ -1,2 +1,2 @@
 # test_repo
-for testing the api
+This is a test repo for experimenting with the github API
